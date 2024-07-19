@@ -2,3 +2,4 @@ My first file
 It will contain a lot of HTML work
 
 I am having fun
+This file should be used for merging
